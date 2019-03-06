@@ -1,3 +1,6 @@
+[![Travis Build Status](https://travis-ci.org/JuliaCollections/DataStructures.jl.svg?branch=master)](https://travis-ci.org/JuliaCollections/DataStructures.jl)
+[![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/5gw9xok4e58aixsv?svg=true)](https://ci.appveyor.com/project/kmsquire/datastructures-jl)
+
 TenPuzzle.jl
 ============
 
