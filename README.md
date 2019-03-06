@@ -1,5 +1,5 @@
-[![Travis Build Status](https://travis-ci.org/JuliaCollections/DataStructures.jl.svg?branch=master)](https://travis-ci.org/JuliaCollections/DataStructures.jl)
-[![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/5gw9xok4e58aixsv?svg=true)](https://ci.appveyor.com/project/kmsquire/datastructures-jl)
+[![Travis Build Status](https://travis-ci.org/kota7/TenPuzzle.jl.svg?branch=master)](https://travis-ci.org/kota7/TenPuzzle.jl)
+[![Build status](https://ci.appveyor.com/api/projects/status/2m9kfet0y39ttudp/branch/master?svg=true)](https://ci.appveyor.com/project/kota7/tenpuzzle-jl/branch/master)
 
 TenPuzzle.jl
 ============
