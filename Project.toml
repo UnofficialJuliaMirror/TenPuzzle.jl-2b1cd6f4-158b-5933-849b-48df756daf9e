@@ -1,5 +1,5 @@
 name = "TenPuzzle"
-uuid = "73303840-3ce9-11e9-0736-8598e335694c"
+uuid = "2b1cd6f4-158b-5933-849b-48df756daf9e"
 version = "0.1.0"
 
 [deps]
